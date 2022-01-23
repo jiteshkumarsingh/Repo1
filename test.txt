@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 448D-E336
+
+ Directory of C:\Projects\MyProject\NewGit
+
+23-01-2022  09:59    <DIR>          .
+23-01-2022  09:59    <DIR>          ..
+23-01-2022  09:59                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  441,570,471,936 bytes free
